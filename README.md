@@ -22,6 +22,6 @@ This project builds a tool to fight spam! ️ It uses text analysis to classify 
 ### Next Steps:
 
 - **Real-Time Protection:** Integrate the model with your email/text client.
-**Always Learning:** Adapt to new spam tricks with advanced techniques.
+- **Always Learning:** Adapt to new spam tricks with advanced techniques.
 
 ### Let's keep spam at bay!
